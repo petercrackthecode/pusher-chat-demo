@@ -6,8 +6,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.27.2",
     "cors": "^2.8.5",
     "next": "latest",
+    "pusher": "^5.1.1-beta",
+    "pusher-js": "^7.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
